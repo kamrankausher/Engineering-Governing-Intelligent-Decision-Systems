@@ -16,7 +16,7 @@ What **does not** evolve as fast:
 
 This repository is **not** about chasing AI trends.
 
-It is about building **deep, durable competence** that remains relevant for the next **20–30 years**, even as tools, frameworks, and buzzwords change.
+It is about building **deep, durable competence** that remains relevant for the next **Upcoming years**, even as tools, frameworks, and buzzwords change.
 
 ---
 
